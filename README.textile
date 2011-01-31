@@ -1,3 +1,11 @@
 h1. xkcd json to sqlite converter
 
 Does what it says on the tin.
+
+h2. Requirements
+
+php5, php5-cli
+
+h2. Instructions
+
+php xkcd.php
