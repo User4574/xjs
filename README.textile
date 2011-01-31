@@ -4,7 +4,7 @@ Does what it says on the tin.
 
 h2. Requirements
 
-php5, php5-cli
+php5, php5-sqlite, php5-cli
 
 h2. Instructions
 
