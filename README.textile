@@ -1,0 +1,3 @@
+h1. xkcd json to sqlite converter
+
+Does what it says on the tin.
